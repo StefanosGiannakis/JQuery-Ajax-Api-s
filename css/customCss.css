@@ -1,0 +1,14 @@
+﻿body{
+    background-color: #566D80;
+}
+.bgheader{
+    background-color: #FFE484;
+    padding:1em;
+}
+h1,h2,h3,p{
+    color: #ffffff;
+}
+.padclass{
+    padding: 3em;
+    background-color: #34fe;
+}
