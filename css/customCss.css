@@ -5,6 +5,10 @@
     background-color: #FFE484;
     padding:1em;
 }
+.bgcol{
+    background-color:#E6F7FF;
+    padding:1em;
+}
 h1,h2,h3,p{
     color: #ffffff;
 }
